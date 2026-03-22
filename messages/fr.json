@@ -1,0 +1,210 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "products": "Notre Flotte",
+    "services": "Services",
+    "contact": "Contact",
+    "serviceOffer": "Demander un service"
+  },
+  "hero": {
+    "slide1Title": "Maintenance de Camions",
+    "slide1Desc": "Diagnostics, réparation moteur et entretien préventif pour poids lourds",
+    "slide2Title": "Engins de Chantier",
+    "slide2Desc": "Maintenance des machines de construction pour les grands projets",
+    "slide3Title": "Service Mobile",
+    "slide3Desc": "Maintenance sur site et réparations d'urgence partout en Algérie",
+    "cta": "Nos Services",
+    "ctaContact": "Nous contacter"
+  },
+  "about": {
+    "sectionTag": "À propos de nous",
+    "title": "NASMO",
+    "description": "NASMO est une entreprise de maintenance spécialisée avec plus de 10 ans d'expérience dans l'entretien de poids lourds, de moteurs de construction et de machines industrielles.",
+    "description2": "Notre entreprise collabore avec de grandes sociétés de construction et d'infrastructure telles que GCB et Cosider, fournissant des services de maintenance fiables pour leurs flottes et équipements.",
+    "service1": "Maintenance de camions : diagnostics, réparation moteur et entretien préventif",
+    "service2": "Engins de chantier : maintenance des machines lourdes pour les grands projets",
+    "service3": "Service mobile : maintenance sur site et réparations d'urgence à travers l'Algérie",
+    "yearsLabel": "Ans",
+    "aboutBtn": "À propos de nous",
+    "expertise": "Notre équipe de techniciens expérimentés assure des réparations de haute qualité, une maintenance préventive et une intervention rapide en cas de panne d'équipement. Nous sommes engagés envers la fiabilité, le professionnalisme et les partenariats à long terme avec nos clients.",
+    "coverage": "Les équipes techniques mobiles de NASMO peuvent se déplacer partout en Algérie pour effectuer la maintenance directement sur votre site.",
+    "devTitle": "Fiabilité & Professionnalisme",
+    "devDesc": "Nous nous engageons à maintenir les machines lourdes de l'Algérie en marche avec des services de maintenance professionnels et fiables.",
+    "qualityTitle": "Excellence",
+    "qualityDesc": "Notre engagement envers la qualité et le professionnalisme nous permet de maintenir les plus hauts standards de l'industrie en matière de maintenance d'équipements lourds.",
+    "stats": {
+      "years": "Années d'expérience",
+      "projects": "Projets réalisés",
+      "clients": "Clients fidèles",
+      "coverage": "Couverture nationale"
+    },
+    "valuesTag": "Nos Valeurs",
+    "ctaTitle": "Vous avez un projet ?",
+    "ctaSubtitle": "Contactez-nous aujourd'hui",
+    "ctaBtn": "Nous Contacter"
+  },
+  "services": {
+    "sectionTag": "Nos Services",
+    "title": "Ce Que Nous Faisons",
+    "subtitle": "NASMO fournit des services de maintenance professionnels pour camions, engins de chantier et véhicules industriels",
+    "electrical": {
+      "title": "Maintenance de Camions",
+      "desc": "Diagnostics complets, réparation moteur, maintenance préventive et entretien de flottes pour poids lourds.",
+      "features": {
+        "f1": "Diagnostics moteur",
+        "f2": "Maintenance préventive",
+        "f3": "Réparations mécaniques",
+        "f4": "Entretien de flottes"
+      }
+    },
+    "airport": {
+      "title": "Engins de Chantier",
+      "desc": "Réparation moteur, vérification des systèmes hydrauliques, entretien des équipements et inspections préventives.",
+      "features": {
+        "f1": "Réparation moteur",
+        "f2": "Systèmes hydrauliques",
+        "f3": "Entretien d'équipements",
+        "f4": "Inspections préventives"
+      }
+    },
+    "equipment": {
+      "title": "Service Mobile",
+      "desc": "Nos équipes techniques mobiles se déplacent partout en Algérie pour effectuer la maintenance directement sur votre site.",
+      "features": {
+        "f1": "Réparations sur site",
+        "f2": "Intervention d'urgence",
+        "f3": "Couverture nationale",
+        "f4": "Intervention rapide"
+      }
+    },
+    "ctaTitle": "Besoin de maintenance pour vos équipements lourds ?",
+    "ctaPhone": "Appelez-nous au",
+    "ctaButton": "Nous Contacter",
+    "learnMore": "En savoir plus",
+    "allServices": "Tous les services",
+    "overview": "Présentation",
+    "whatWeOffer": "Nos prestations",
+    "details": "Détails",
+    "requestService": "Demander un service",
+    "callNow": "Appeler",
+    "interestedCta": "Intéressé par ce service ?",
+    "notFound": "Service introuvable",
+    "backToServices": "Retour aux services",
+    "detail": {
+      "truck-maintenance": {
+        "title": "Maintenance de Camions",
+        "subtitle": "Entretien professionnel pour poids lourds",
+        "longDesc": "NASMO fournit des services complets de maintenance de camions avec plus de 10 ans d'expérience. Notre équipe de techniciens qualifiés gère tout, du diagnostic moteur et des réparations mécaniques à la maintenance préventive et l'entretien complet de flottes. Nous travaillons avec de grandes entreprises telles que GCB et Cosider.",
+        "f1": "Diagnostics moteur", "f1d": "Outils de diagnostic avancés pour identifier et résoudre les problèmes moteur",
+        "f2": "Maintenance préventive", "f2d": "Programmes de maintenance planifiés pour prévenir les pannes",
+        "f3": "Réparations mécaniques", "f3d": "Services de réparation complets : transmission, freins et suspension",
+        "f4": "Entretien de flottes", "f4d": "Programmes dédiés de gestion et maintenance de flottes",
+        "f5": "Systèmes électriques", "f5d": "Diagnostic et réparation des systèmes électriques",
+        "f6": "Fourniture de pièces", "f6d": "Pièces de rechange de qualité pour toutes les marques",
+        "s1l": "Expérience", "s1v": "10+ ans",
+        "s2l": "Couverture", "s2v": "Toute l'Algérie",
+        "s3l": "Disponibilité", "s3v": "Urgence 24/7",
+        "s4l": "Clients", "s4v": "GCB, Cosider et plus"
+      },
+      "construction-equipment": {
+        "title": "Engins de Chantier",
+        "subtitle": "Maintenir vos équipements de construction en marche",
+        "longDesc": "NASMO est spécialisée dans la maintenance et la réparation d'engins de chantier utilisés dans les grands projets d'infrastructure et de construction. Nos techniciens expérimentés entretiennent pelleteuses, bulldozers, grues, chargeuses et autres équipements lourds.",
+        "f1": "Réparation moteur", "f1d": "Révision complète des moteurs pour tous types d'engins",
+        "f2": "Systèmes hydrauliques", "f2d": "Inspection, réparation et maintenance des composants hydrauliques",
+        "f3": "Entretien d'équipements", "f3d": "Entretien régulier pour maintenir les performances optimales",
+        "f4": "Inspections préventives", "f4d": "Inspections planifiées pour prévenir les pannes",
+        "f5": "Réparation de train de roulement", "f5d": "Maintenance du système de chenilles",
+        "f6": "Soudure et fabrication", "f6d": "Réparations structurelles et fabrication sur mesure",
+        "s1l": "Types d'équipements", "s1v": "Toutes marques",
+        "s2l": "Temps de réponse", "s2v": "< 24 heures",
+        "s3l": "Couverture", "s3v": "Nationale",
+        "s4l": "Partenariats", "s4v": "GCB, Cosider"
+      },
+      "mobile-service": {
+        "title": "Service Mobile",
+        "subtitle": "Réparations sur site partout en Algérie",
+        "longDesc": "Le service de maintenance mobile de NASMO apporte notre expertise directement sur votre chantier. Nos véhicules de service entièrement équipés transportent les outils, équipements de diagnostic et pièces nécessaires pour effectuer la plupart des réparations sur site.",
+        "f1": "Réparations sur site", "f1d": "Services de réparation complets sur votre chantier",
+        "f2": "Intervention d'urgence", "f2d": "Déploiement rapide pour les pannes urgentes",
+        "f3": "Couverture nationale", "f3d": "Équipes mobiles prêtes à se déplacer en Algérie",
+        "f4": "Véhicules équipés", "f4d": "Véhicules de service entièrement équipés",
+        "f5": "Visites planifiées", "f5d": "Visites de maintenance régulières sur site",
+        "f6": "Diagnostic à distance", "f6d": "Diagnostic téléphonique avant intervention",
+        "s1l": "Couverture", "s1v": "Toute l'Algérie",
+        "s2l": "Réponse", "s2v": "Même jour",
+        "s3l": "Horaires", "s3v": "Disponible 24/7",
+        "s4l": "Flotte", "s4v": "Unités mobiles équipées"
+      }
+    }
+  },
+  "products": {
+    "sectionTag": "Expérience & Clients",
+    "title": "Ils Nous Font Confiance",
+    "subtitle": "Avec plus d'une décennie d'expérience, NASMO a accompagné de grands projets de construction et d'infrastructure en Algérie",
+    "categories": {
+      "all": "Tous",
+      "generators": "Construction",
+      "ups": "Infrastructure",
+      "stabilizers": "Transport"
+    },
+    "viewDetails": "En savoir plus",
+    "downloadCatalog": "Voir tous les projets"
+  },
+  "clients": {
+    "sectionTag": "Nos Partenaires",
+    "title": "Ils Nous Font Confiance",
+    "subtitle": "De grandes entreprises de construction font confiance à NASMO pour la maintenance de leurs équipements lourds"
+  },
+  "contact": {
+    "sectionTag": "Contactez-nous",
+    "title": "Restons en Contact",
+    "subtitle": "Pour des demandes de service, partenariats ou plus d'informations sur nos solutions de maintenance, contactez-nous",
+    "form": {
+      "name": "Nom complet",
+      "company": "Entreprise",
+      "email": "Adresse e-mail",
+      "phone": "Téléphone",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer le message"
+    },
+    "info": {
+      "address": "Adresse",
+      "addressValue": "Algérie",
+      "phone": "Téléphone",
+      "phoneValue": "+213 (0) 551.99.55.68",
+      "mobile": "+213 (0) 550.58.74.63",
+      "email": "E-mail",
+      "emailValue": "contact@nasmo.dz",
+      "emailValue2": "info@nasmo.dz",
+      "commercial": "Demandes de service",
+      "commercialValue": "+213 (0) 551.99.55.68",
+      "technical": "Support technique",
+      "technicalValue": "+213 (0) 550.58.74.63"
+    }
+  },
+  "footer": {
+    "description": "NASMO est une entreprise de maintenance spécialisée avec plus de 10 ans d'expérience dans l'entretien de poids lourds, d'engins de chantier et de machines industrielles à travers l'Algérie.",
+    "navigation": "Navigation",
+    "categories": "Nos Services",
+    "headquarters": "Siège Social",
+    "rights": "Tous droits réservés",
+    "cat": {
+      "stabilizers": "Entretien de flottes",
+      "airport": "Engins de chantier",
+      "generators": "Maintenance camions",
+      "augier": "Service mobile",
+      "ups": "Réparations d'urgence"
+    }
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "contactUs": "Nous contacter",
+    "callNow": "Appeler",
+    "since": "10+ ans d'expérience",
+    "ctaHeading": "Besoin de maintenance pour vos équipements lourds ?",
+    "ctaCall": "Appelez-nous"
+  }
+}

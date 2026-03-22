@@ -1,0 +1,210 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Our Fleet",
+    "services": "Services",
+    "contact": "Contact",
+    "serviceOffer": "Request Service"
+  },
+  "hero": {
+    "slide1Title": "Truck Maintenance",
+    "slide1Desc": "Diagnostics, engine repair, and preventive servicing for heavy trucks",
+    "slide2Title": "Construction Equipment",
+    "slide2Desc": "Maintenance for construction machinery used in large-scale projects",
+    "slide3Title": "Mobile Service",
+    "slide3Desc": "On-site maintenance and emergency repairs anywhere in Algeria",
+    "cta": "Our Services",
+    "ctaContact": "Contact Us"
+  },
+  "about": {
+    "sectionTag": "About Us",
+    "title": "NASMO",
+    "description": "NASMO is a specialized maintenance company with more than 10 years of experience in servicing heavy trucks, construction engines, and industrial machinery.",
+    "description2": "Our company works with major construction and infrastructure companies such as GCB and Cosider, providing reliable maintenance services for their fleets and equipment.",
+    "service1": "Truck maintenance: diagnostics, engine repair, and preventive servicing",
+    "service2": "Construction equipment: maintenance for heavy machinery on large-scale projects",
+    "service3": "Mobile service: on-site maintenance and emergency repairs across Algeria",
+    "yearsLabel": "Years",
+    "aboutBtn": "About Us",
+    "expertise": "Our team of experienced technicians ensures high-quality repairs, preventive maintenance, and rapid intervention when equipment failures occur. We are committed to reliability, professionalism, and long-term partnerships with our clients.",
+    "coverage": "NASMO's mobile technical teams can travel anywhere in Algeria to perform maintenance directly on your site.",
+    "devTitle": "Reliability & Professionalism",
+    "devDesc": "We are committed to keeping Algeria's heavy machinery running with professional, dependable maintenance services.",
+    "qualityTitle": "Excellence",
+    "qualityDesc": "Our commitment to quality and professionalism allows us to maintain the highest industry standards in heavy equipment maintenance.",
+    "stats": {
+      "years": "Years of Experience",
+      "projects": "Projects Completed",
+      "clients": "Trusted Clients",
+      "coverage": "National Coverage"
+    },
+    "valuesTag": "Our Values",
+    "ctaTitle": "Have a project?",
+    "ctaSubtitle": "Contact us today",
+    "ctaBtn": "Contact Us"
+  },
+  "services": {
+    "sectionTag": "Our Services",
+    "title": "What We Do",
+    "subtitle": "NASMO provides professional maintenance services for trucks, construction engines, and industrial vehicles",
+    "electrical": {
+      "title": "Truck Maintenance",
+      "desc": "Complete diagnostics, engine repair, preventive maintenance, and fleet servicing for heavy trucks.",
+      "features": {
+        "f1": "Engine Diagnostics",
+        "f2": "Preventive Maintenance",
+        "f3": "Mechanical Repairs",
+        "f4": "Fleet Servicing"
+      }
+    },
+    "airport": {
+      "title": "Construction Machinery",
+      "desc": "Engine repair, hydraulic system checks, equipment servicing, and preventive inspections for construction equipment.",
+      "features": {
+        "f1": "Engine Repair",
+        "f2": "Hydraulic Systems",
+        "f3": "Equipment Servicing",
+        "f4": "Preventive Inspections"
+      }
+    },
+    "equipment": {
+      "title": "Mobile Service",
+      "desc": "Our mobile technical teams travel anywhere in Algeria to perform maintenance directly on your site, minimizing downtime.",
+      "features": {
+        "f1": "On-Site Repairs",
+        "f2": "Emergency Response",
+        "f3": "Nationwide Coverage",
+        "f4": "Rapid Intervention"
+      }
+    },
+    "ctaTitle": "Need maintenance for your heavy equipment?",
+    "ctaPhone": "Call us at",
+    "ctaButton": "Contact Us",
+    "learnMore": "Learn More",
+    "allServices": "All Services",
+    "overview": "Overview",
+    "whatWeOffer": "What We Offer",
+    "details": "Details",
+    "requestService": "Request Service",
+    "callNow": "Call Now",
+    "interestedCta": "Interested in this service?",
+    "notFound": "Service not found",
+    "backToServices": "Back to Services",
+    "detail": {
+      "truck-maintenance": {
+        "title": "Truck Maintenance",
+        "subtitle": "Professional servicing for heavy trucks",
+        "longDesc": "NASMO provides comprehensive truck maintenance services with over 10 years of experience. Our team of skilled technicians handles everything from engine diagnostics and mechanical repairs to preventive maintenance and complete fleet servicing. We work with major companies such as GCB and Cosider, ensuring their truck fleets remain in optimal condition.",
+        "f1": "Engine Diagnostics", "f1d": "Advanced diagnostic tools to identify and resolve engine issues quickly",
+        "f2": "Preventive Maintenance", "f2d": "Scheduled maintenance programs to prevent breakdowns",
+        "f3": "Mechanical Repairs", "f3d": "Complete repair services including transmission, brakes, and suspension",
+        "f4": "Fleet Servicing", "f4d": "Dedicated fleet management and maintenance programs",
+        "f5": "Electrical Systems", "f5d": "Diagnosis and repair of truck electrical systems",
+        "f6": "Parts Supply", "f6d": "Quality replacement parts for all major truck brands",
+        "s1l": "Experience", "s1v": "10+ Years",
+        "s2l": "Coverage", "s2v": "All Algeria",
+        "s3l": "Availability", "s3v": "24/7 Emergency",
+        "s4l": "Clients", "s4v": "GCB, Cosider & more"
+      },
+      "construction-equipment": {
+        "title": "Construction Machinery",
+        "subtitle": "Keeping your construction equipment running",
+        "longDesc": "NASMO specializes in the maintenance and repair of construction machinery used in large-scale infrastructure and building projects. Our experienced technicians service excavators, bulldozers, cranes, loaders, and other heavy construction equipment. We support major construction companies across Algeria.",
+        "f1": "Engine Repair", "f1d": "Comprehensive engine overhaul for all types of construction machinery",
+        "f2": "Hydraulic Systems", "f2d": "Inspection, repair, and maintenance of hydraulic components",
+        "f3": "Equipment Servicing", "f3d": "Regular servicing to maintain peak performance",
+        "f4": "Preventive Inspections", "f4d": "Scheduled inspections to prevent breakdowns",
+        "f5": "Undercarriage Repair", "f5d": "Track system and undercarriage maintenance",
+        "f6": "Welding & Fabrication", "f6d": "Structural repairs and custom fabrication",
+        "s1l": "Equipment Types", "s1v": "All Major Brands",
+        "s2l": "Response Time", "s2v": "< 24 Hours",
+        "s3l": "Coverage", "s3v": "Nationwide",
+        "s4l": "Partnerships", "s4v": "GCB, Cosider"
+      },
+      "mobile-service": {
+        "title": "Mobile Service",
+        "subtitle": "On-site repairs anywhere in Algeria",
+        "longDesc": "NASMO's mobile maintenance service brings our expertise directly to your worksite. Our fully equipped service vehicles carry the tools, diagnostic equipment, and parts needed to perform most repairs on-site. Whether you're on a remote construction site or at a fixed facility, our mobile teams can reach you anywhere in Algeria.",
+        "f1": "On-Site Repairs", "f1d": "Comprehensive repair services at your worksite",
+        "f2": "Emergency Response", "f2d": "Rapid deployment for urgent breakdowns",
+        "f3": "Nationwide Coverage", "f3d": "Mobile teams ready to travel across Algeria",
+        "f4": "Equipped Vehicles", "f4d": "Fully equipped service vehicles with tools and parts",
+        "f5": "Scheduled Visits", "f5d": "Regular on-site maintenance visits",
+        "f6": "Remote Diagnostics", "f6d": "Phone-based diagnostics before arrival",
+        "s1l": "Coverage", "s1v": "All Algeria",
+        "s2l": "Response", "s2v": "Same Day",
+        "s3l": "Service Hours", "s3v": "24/7 Available",
+        "s4l": "Fleet", "s4v": "Equipped Mobile Units"
+      }
+    }
+  },
+  "products": {
+    "sectionTag": "Experience & Clients",
+    "title": "They Trust Us",
+    "subtitle": "With more than a decade of experience, NASMO has supported major construction and infrastructure projects in Algeria",
+    "categories": {
+      "all": "All",
+      "generators": "Construction",
+      "ups": "Infrastructure",
+      "stabilizers": "Transport"
+    },
+    "viewDetails": "Learn More",
+    "downloadCatalog": "View All Projects"
+  },
+  "clients": {
+    "sectionTag": "Our Partners",
+    "title": "They Trust Us",
+    "subtitle": "Major construction companies trust NASMO for their heavy equipment maintenance needs"
+  },
+  "contact": {
+    "sectionTag": "Contact Us",
+    "title": "Get In Touch",
+    "subtitle": "For service requests, partnerships, or more information about our maintenance solutions, please contact us",
+    "form": {
+      "name": "Full Name",
+      "company": "Company",
+      "email": "Email Address",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message"
+    },
+    "info": {
+      "address": "Address",
+      "addressValue": "Algeria",
+      "phone": "Phone",
+      "phoneValue": "+213 (0) 551.99.55.68",
+      "mobile": "+213 (0) 550.58.74.63",
+      "email": "Email",
+      "emailValue": "contact@nasmo.dz",
+      "emailValue2": "info@nasmo.dz",
+      "commercial": "Service Requests",
+      "commercialValue": "+213 (0) 551.99.55.68",
+      "technical": "Technical Support",
+      "technicalValue": "+213 (0) 550.58.74.63"
+    }
+  },
+  "footer": {
+    "description": "NASMO is a specialized maintenance company with 10+ years of experience in servicing heavy trucks, construction engines, and industrial machinery across Algeria.",
+    "navigation": "Navigation",
+    "categories": "Our Services",
+    "headquarters": "Headquarters",
+    "rights": "All rights reserved",
+    "cat": {
+      "stabilizers": "Fleet Servicing",
+      "airport": "Construction Equipment",
+      "generators": "Truck Maintenance",
+      "augier": "Mobile Service",
+      "ups": "Emergency Repairs"
+    }
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "callNow": "Call Now",
+    "since": "10+ Years of Experience",
+    "ctaHeading": "Need maintenance for your heavy equipment?",
+    "ctaCall": "Call us"
+  }
+}
