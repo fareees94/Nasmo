@@ -16,7 +16,7 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
-        hostname: "entrelec.dz",
+        hostname: "nasmo",
       },
     ],
   },
